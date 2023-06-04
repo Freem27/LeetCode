@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21MergeTwoSortedLists", "21
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002AddTwoNumbers", "002AddTwoNumbers\002AddTwoNumbers.csproj", "{0262CD6F-1510-421B-8466-66E8850F00C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003LongestSubstringWithoutRepeatingCharacters", "003LongestSubstringWithoutRepeatingCharacters\003LongestSubstringWithoutRepeatingCharacters.csproj", "{94D35271-868E-40EE-B0B1-3BF66E44A55B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003LongestSubstringWithoutRepeatingCharacters", "003LongestSubstringWithoutRepeatingCharacters\003LongestSubstringWithoutRepeatingCharacters.csproj", "{94D35271-868E-40EE-B0B1-3BF66E44A55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004medianOfTwoSortedArrays", "004medianOfTwoSortedArrays\004medianOfTwoSortedArrays.csproj", "{96C61D85-06A5-40F0-B06D-3CB536165C73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{94D35271-868E-40EE-B0B1-3BF66E44A55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D35271-868E-40EE-B0B1-3BF66E44A55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94D35271-868E-40EE-B0B1-3BF66E44A55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C61D85-06A5-40F0-B06D-3CB536165C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C61D85-06A5-40F0-B06D-3CB536165C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C61D85-06A5-40F0-B06D-3CB536165C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C61D85-06A5-40F0-B06D-3CB536165C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
