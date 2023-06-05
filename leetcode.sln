@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005LongestPalindromicSubstr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006ZigzagConversion", "006ZigzagConversion\006ZigzagConversion.csproj", "{2E21DBEA-99F4-4885-84B9-51D6644D07DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007ReverseInteger", "007ReverseInteger\007ReverseInteger.csproj", "{AE33190F-5265-4444-8488-4B5E1D4204D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2E21DBEA-99F4-4885-84B9-51D6644D07DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E21DBEA-99F4-4885-84B9-51D6644D07DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E21DBEA-99F4-4885-84B9-51D6644D07DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE33190F-5265-4444-8488-4B5E1D4204D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE33190F-5265-4444-8488-4B5E1D4204D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE33190F-5265-4444-8488-4B5E1D4204D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE33190F-5265-4444-8488-4B5E1D4204D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
