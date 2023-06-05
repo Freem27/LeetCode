@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006ZigzagConversion", "006Z
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007ReverseInteger", "007ReverseInteger\007ReverseInteger.csproj", "{AE33190F-5265-4444-8488-4B5E1D4204D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008StringToIntegerATOI", "008StringToIntegerATOI\008StringToIntegerATOI.csproj", "{F065C64A-0D08-4B58-A66F-4186459D359E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{AE33190F-5265-4444-8488-4B5E1D4204D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE33190F-5265-4444-8488-4B5E1D4204D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE33190F-5265-4444-8488-4B5E1D4204D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F065C64A-0D08-4B58-A66F-4186459D359E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F065C64A-0D08-4B58-A66F-4186459D359E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F065C64A-0D08-4B58-A66F-4186459D359E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F065C64A-0D08-4B58-A66F-4186459D359E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
