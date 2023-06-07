@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008StringToIntegerATOI", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010RegularExpressionMatching", "010RegularExpressionMatching\010RegularExpressionMatching.csproj", "{FE214620-2EC9-403C-957D-DFD22D8A2F58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011ContainerWithMostWater", "011ContainerWithMostWater\011ContainerWithMostWater.csproj", "{AB35B26B-FDFE-4B52-B933-45C2D92126B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{FE214620-2EC9-403C-957D-DFD22D8A2F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE214620-2EC9-403C-957D-DFD22D8A2F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE214620-2EC9-403C-957D-DFD22D8A2F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB35B26B-FDFE-4B52-B933-45C2D92126B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB35B26B-FDFE-4B52-B933-45C2D92126B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB35B26B-FDFE-4B52-B933-45C2D92126B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB35B26B-FDFE-4B52-B933-45C2D92126B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
