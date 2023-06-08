@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012IntegerToRoman", "012Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 3Sum", "015 3Sum\015 3Sum.csproj", "{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 3Sum Closest", "016 3Sum Closest\016 3Sum Closest.csproj", "{91EABE45-FFFD-486B-BD32-A725C4F47B46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EABE45-FFFD-486B-BD32-A725C4F47B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EABE45-FFFD-486B-BD32-A725C4F47B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EABE45-FFFD-486B-BD32-A725C4F47B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EABE45-FFFD-486B-BD32-A725C4F47B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
