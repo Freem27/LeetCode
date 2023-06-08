@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 3Sum", "015 3Sum\015 3S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 3Sum Closest", "016 3Sum Closest\016 3Sum Closest.csproj", "{91EABE45-FFFD-486B-BD32-A725C4F47B46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017 Letter Combinations of a Phone Number", "017 Letter Combinations of a Phone Number\017 Letter Combinations of a Phone Number.csproj", "{ADFAF6E7-0031-4A5C-B7AF-A83C47B70E1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{91EABE45-FFFD-486B-BD32-A725C4F47B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91EABE45-FFFD-486B-BD32-A725C4F47B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91EABE45-FFFD-486B-BD32-A725C4F47B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFAF6E7-0031-4A5C-B7AF-A83C47B70E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFAF6E7-0031-4A5C-B7AF-A83C47B70E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFAF6E7-0031-4A5C-B7AF-A83C47B70E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFAF6E7-0031-4A5C-B7AF-A83C47B70E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
