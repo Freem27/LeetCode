@@ -13,21 +13,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002AddTwoNumbers", "002AddT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003LongestSubstringWithoutRepeatingCharacters", "003LongestSubstringWithoutRepeatingCharacters\003LongestSubstringWithoutRepeatingCharacters.csproj", "{94D35271-868E-40EE-B0B1-3BF66E44A55B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004medianOfTwoSortedArrays", "004medianOfTwoSortedArrays\004medianOfTwoSortedArrays.csproj", "{96C61D85-06A5-40F0-B06D-3CB536165C73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004medianOfTwoSortedArrays", "004medianOfTwoSortedArrays\004medianOfTwoSortedArrays.csproj", "{96C61D85-06A5-40F0-B06D-3CB536165C73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005LongestPalindromicSubstring", "005LongestPalindromicSubstring\005LongestPalindromicSubstring.csproj", "{BB9D8B0A-FAD0-41D0-83B1-32678DF271F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005LongestPalindromicSubstring", "005LongestPalindromicSubstring\005LongestPalindromicSubstring.csproj", "{BB9D8B0A-FAD0-41D0-83B1-32678DF271F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006ZigzagConversion", "006ZigzagConversion\006ZigzagConversion.csproj", "{2E21DBEA-99F4-4885-84B9-51D6644D07DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006ZigzagConversion", "006ZigzagConversion\006ZigzagConversion.csproj", "{2E21DBEA-99F4-4885-84B9-51D6644D07DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007ReverseInteger", "007ReverseInteger\007ReverseInteger.csproj", "{AE33190F-5265-4444-8488-4B5E1D4204D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007ReverseInteger", "007ReverseInteger\007ReverseInteger.csproj", "{AE33190F-5265-4444-8488-4B5E1D4204D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008StringToIntegerATOI", "008StringToIntegerATOI\008StringToIntegerATOI.csproj", "{F065C64A-0D08-4B58-A66F-4186459D359E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008StringToIntegerATOI", "008StringToIntegerATOI\008StringToIntegerATOI.csproj", "{F065C64A-0D08-4B58-A66F-4186459D359E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010RegularExpressionMatching", "010RegularExpressionMatching\010RegularExpressionMatching.csproj", "{FE214620-2EC9-403C-957D-DFD22D8A2F58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010RegularExpressionMatching", "010RegularExpressionMatching\010RegularExpressionMatching.csproj", "{FE214620-2EC9-403C-957D-DFD22D8A2F58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011ContainerWithMostWater", "011ContainerWithMostWater\011ContainerWithMostWater.csproj", "{AB35B26B-FDFE-4B52-B933-45C2D92126B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011ContainerWithMostWater", "011ContainerWithMostWater\011ContainerWithMostWater.csproj", "{AB35B26B-FDFE-4B52-B933-45C2D92126B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012IntegerToRoman", "012IntegerToRoman\012IntegerToRoman.csproj", "{9A84B5CF-A27A-4E6A-8E9F-7554FD0232B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012IntegerToRoman", "012IntegerToRoman\012IntegerToRoman.csproj", "{9A84B5CF-A27A-4E6A-8E9F-7554FD0232B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 3Sum", "015 3Sum\015 3Sum.csproj", "{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{9A84B5CF-A27A-4E6A-8E9F-7554FD0232B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A84B5CF-A27A-4E6A-8E9F-7554FD0232B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A84B5CF-A27A-4E6A-8E9F-7554FD0232B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EDE5F8-ADDF-45D5-BF64-281CB417EAE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
