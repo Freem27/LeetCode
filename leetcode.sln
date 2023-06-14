@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "017 Letter Combinations of 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "744 Find Smallest Letter Greater Than Target", "744 Find Smallest Letter Greater Than Target\744 Find Smallest Letter Greater Than Target.csproj", "{9BA9235F-DC52-4B80-814A-45B9665EE98D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1376 Time Needed to Inform All Employees", "1376 Time Needed to Inform All Employees\1376 Time Needed to Inform All Employees.csproj", "{E7F314B7-957F-44C1-BEC4-7142D2A7A4EB}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "228 Summary Ranges", "228 Summary Ranges\228 Summary Ranges.csproj", "{C9F4EEBC-D1B0-4B79-A920-F98172FDC3C3}"
 EndProject
 Global
