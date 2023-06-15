@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "530 Minimum Absolute Differ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2352 Equal Row and Column Pairs", "2352 Equal Row and Column Pairs\2352 Equal Row and Column Pairs.csproj", "{9455BF93-8B19-4B5A-A8C6-5788812182B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1161 Maximum Level Sum of a Binary Tree", "1161 Maximum Level Sum of a Binary Tree\1161 Maximum Level Sum of a Binary Tree.csproj", "{796DE414-EB3C-496F-9259-8FBA9987D7FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{9455BF93-8B19-4B5A-A8C6-5788812182B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9455BF93-8B19-4B5A-A8C6-5788812182B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9455BF93-8B19-4B5A-A8C6-5788812182B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796DE414-EB3C-496F-9259-8FBA9987D7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796DE414-EB3C-496F-9259-8FBA9987D7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796DE414-EB3C-496F-9259-8FBA9987D7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796DE414-EB3C-496F-9259-8FBA9987D7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
