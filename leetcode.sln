@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1161 Maximum Level Sum of a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1146 Snapshot Array", "1146 Snapshot Array\1146 Snapshot Array.csproj", "{EF1764B0-20BE-452C-B042-18BE8ABEE2B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1091 Shortest Path in Binary Matrix", "1091 Shortest Path in Binary Matrix\1091 Shortest Path in Binary Matrix.csproj", "{1342EDFD-8F91-4E32-9F5F-19387428491D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{EF1764B0-20BE-452C-B042-18BE8ABEE2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF1764B0-20BE-452C-B042-18BE8ABEE2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF1764B0-20BE-452C-B042-18BE8ABEE2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1342EDFD-8F91-4E32-9F5F-19387428491D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1342EDFD-8F91-4E32-9F5F-19387428491D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1342EDFD-8F91-4E32-9F5F-19387428491D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1342EDFD-8F91-4E32-9F5F-19387428491D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
