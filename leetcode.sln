@@ -41,15 +41,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1376 Time Needed to Inform 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228 Summary Ranges", "228 Summary Ranges\228 Summary Ranges.csproj", "{C9F4EEBC-D1B0-4B79-A920-F98172FDC3C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "530 Minimum Absolute Difference in BST", "530 Minimum Absolute Difference in BST\530 Minimum Absolute Difference in BST.csproj", "{F6F7A4F4-C0E6-4CDE-932F-EBEBBA3D430C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "530 Minimum Absolute Difference in BST", "530 Minimum Absolute Difference in BST\530 Minimum Absolute Difference in BST.csproj", "{F6F7A4F4-C0E6-4CDE-932F-EBEBBA3D430C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2352 Equal Row and Column Pairs", "2352 Equal Row and Column Pairs\2352 Equal Row and Column Pairs.csproj", "{9455BF93-8B19-4B5A-A8C6-5788812182B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2352 Equal Row and Column Pairs", "2352 Equal Row and Column Pairs\2352 Equal Row and Column Pairs.csproj", "{9455BF93-8B19-4B5A-A8C6-5788812182B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1161 Maximum Level Sum of a Binary Tree", "1161 Maximum Level Sum of a Binary Tree\1161 Maximum Level Sum of a Binary Tree.csproj", "{796DE414-EB3C-496F-9259-8FBA9987D7FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1161 Maximum Level Sum of a Binary Tree", "1161 Maximum Level Sum of a Binary Tree\1161 Maximum Level Sum of a Binary Tree.csproj", "{796DE414-EB3C-496F-9259-8FBA9987D7FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1146 Snapshot Array", "1146 Snapshot Array\1146 Snapshot Array.csproj", "{EF1764B0-20BE-452C-B042-18BE8ABEE2B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1146 Snapshot Array", "1146 Snapshot Array\1146 Snapshot Array.csproj", "{EF1764B0-20BE-452C-B042-18BE8ABEE2B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1091 Shortest Path in Binary Matrix", "1091 Shortest Path in Binary Matrix\1091 Shortest Path in Binary Matrix.csproj", "{1342EDFD-8F91-4E32-9F5F-19387428491D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1091 Shortest Path in Binary Matrix", "1091 Shortest Path in Binary Matrix\1091 Shortest Path in Binary Matrix.csproj", "{1342EDFD-8F91-4E32-9F5F-19387428491D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2462 Total Cost to Hire K Workers", "2462 Total Cost to Hire K Workers\2462 Total Cost to Hire K Workers.csproj", "{585BDAA6-88F8-4664-8E84-2A613A8E9F81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{1342EDFD-8F91-4E32-9F5F-19387428491D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1342EDFD-8F91-4E32-9F5F-19387428491D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1342EDFD-8F91-4E32-9F5F-19387428491D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585BDAA6-88F8-4664-8E84-2A613A8E9F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585BDAA6-88F8-4664-8E84-2A613A8E9F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585BDAA6-88F8-4664-8E84-2A613A8E9F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585BDAA6-88F8-4664-8E84-2A613A8E9F81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
