@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1091 Shortest Path in Binar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2462 Total Cost to Hire K Workers", "2462 Total Cost to Hire K Workers\2462 Total Cost to Hire K Workers.csproj", "{585BDAA6-88F8-4664-8E84-2A613A8E9F81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "373 Find K Pairs with Smallest Sums", "373 Find K Pairs with Smallest Sums\373 Find K Pairs with Smallest Sums.csproj", "{F4B8AFB7-5F3E-4992-90A1-5C8659298764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "373 Find K Pairs with Smallest Sums", "373 Find K Pairs with Smallest Sums\373 Find K Pairs with Smallest Sums.csproj", "{F4B8AFB7-5F3E-4992-90A1-5C8659298764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046Permutations", "046Permutations\046Permutations.csproj", "{741D12D0-E2E3-48B4-A499-5FAA68F374A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{F4B8AFB7-5F3E-4992-90A1-5C8659298764}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B8AFB7-5F3E-4992-90A1-5C8659298764}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B8AFB7-5F3E-4992-90A1-5C8659298764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741D12D0-E2E3-48B4-A499-5FAA68F374A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741D12D0-E2E3-48B4-A499-5FAA68F374A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741D12D0-E2E3-48B4-A499-5FAA68F374A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741D12D0-E2E3-48B4-A499-5FAA68F374A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
